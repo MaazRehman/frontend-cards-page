@@ -2,29 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## My Approach
-The approach is to breakdown into smaller units deliverable . Ideally i would love to do things in increments i.e multiple small PRs however for the sake of this assignment i will be creating one single PR 
+## Demo
 
-#### Functional Requirements
-- Create a card component 
-- Write test for card component 
-- Create a custom hook to fetch the inventory information from api
-- Write test for customHook for fetching data
-- Create a place holder component for card that assembles all card together 
-- Write test for place holder component 
-- Write a fallback error handling component
-- Write test for fallback component
-- Write a loading component 
-- Write test for loading component 
-- Write a HOC component that injects loading and error handling into CardListing component
 
-#### Tech Improvements
 
-- Add an `.nvmrc` file to switch to recommended version for node by repository owners.
-- Create a metric to capture failures and retries . We can use this later for creating alerts and dashboards
-- Integrate sentry in the project 
-- Move the code from javascript to typescript for better type support , abstraction and readability.
-- Add prettier, linter and static validator on pre-commit hook 
+https://github.com/MaazRehman/frontend-cards-page/assets/25147055/7228d94d-d7b3-4be3-929a-7bf9cf8a3455
+
+
 
 
 #### Backlog for next steps 
