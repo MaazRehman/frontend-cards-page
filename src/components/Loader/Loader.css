@@ -1,0 +1,49 @@
+.loader {
+
+margin-top: 150px;
+text-align: center;
+font-family: "Poppins", sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #7B8389;
+font-size: 40px;
+}
+.error-container 
+{   
+    margin-top: 150px;
+    text-align: center;
+
+
+}
+.error-container h2
+{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.error-container p
+{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.error-container button
+{
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: #EDF1F4;
+    cursor: pointer;
+}
